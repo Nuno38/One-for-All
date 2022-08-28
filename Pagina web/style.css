@@ -1,0 +1,11 @@
+body{
+	
+background: silver;
+background-image: url('file:///C:/Users/Makeli/Downloads/transito.webp');
+background-repeat: no-repeat,repeat;
+background-position: center;
+background-size: contain;
+height: 993px;
+width: 100%;
+
+}
